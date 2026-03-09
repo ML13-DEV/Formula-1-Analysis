@@ -3,6 +3,15 @@ Python - SQL - Streamlit (Python)
 
 ---
 
+<div align="center">
+
+https://github.com/user-attachments/assets/f6c6fc43-c7a0-48c4-8966-9f5b73c0b493
+
+
+</div>
+
+---
+
 ## Dataset
 
 - Source: Kaggle -> https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
